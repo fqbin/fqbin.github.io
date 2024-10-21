@@ -4,21 +4,21 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: Taul
-  text: 日志录
+  text: 的日志录
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: Taul的日志录
   actions:
-    - text: 茂茂物语
-      link: https://notes.fe-mm.com
-    - text: 前端导航
-      link: /nav/
+    - text: 迅雷
+      link: http://10.39.123.198:8156    
+    - text: qb
+      link: http://10.39.41.1:16880
       theme: alt
-    - text: mmPlayer
-      link: https://netease-music.fe-mm.com
-    - text: 测试页
-      link: /test
+    - text: emby
+      link: http://10.39.123.198:8096
+    - text: MOVIEPILOT
+      link: http://10.39.41.1:8099
       theme: alt
 features:
   - icon: 📖
