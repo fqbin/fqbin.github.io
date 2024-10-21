@@ -66,11 +66,11 @@ export default defineConfig({
 
    /*** 自定义配置 ***/
     visitor: {
-      badgeId: 'maomao1996.vitepress-nav-template',
+      badgeId: 'fqbin.notes',
     },
 
     comment: {
-      repo: 'maomao1996/vitepress-nav-template',
+      repo: 'fqbin/notes',
       repoId: 'R_kgDOJC09Jg',
       category: 'Announcements',
       categoryId: 'DIC_kwDOJC09Js4Cekn0',
