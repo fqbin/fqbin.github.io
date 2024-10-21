@@ -3,8 +3,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
+  name: Taul
+  text: 日志录
   tagline: 基于 VitePress 的个人前端导航页面模板
   image:
     src: /logo.png
